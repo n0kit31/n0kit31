@@ -1,16 +1,14 @@
-## Hi there 👋
+[![Marcin Krzyżanowski — E-commerce, Linux & DevOps](assets/profile-header.svg)](https://it-krzyzanowski.pl/)
 
-<!--
-**n0kit31/n0kit31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Stores, code &amp; servers.</strong><br>
+  I build, optimize, and maintain online stores, from application code to the infrastructure behind them.
+</p>
 
-Here are some ideas to get you started:
+| 🛒 E-commerce | ⚡ Performance | 🛠 Infrastructure |
+| :--- | :--- | :--- |
+| Store launches, ongoing development,<br>and search integrations | Profiling, caching,<br>and database optimization | Linux, cloud, automation,<br>monitoring, and security |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://it-krzyzanowski.pl/"><strong>Explore my website ↗</strong></a>
+</p>
